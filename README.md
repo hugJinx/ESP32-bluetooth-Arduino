@@ -20,7 +20,7 @@
 
 我想试着用这个手柄来打原神，但这样就需要esp32同时模拟鼠标和键盘，当我尝试这样做的时候我发现这两个不能同时使用，所幸的是蓝牙键盘库和蓝牙鼠标库的作者Github库里的lssues区有个大佬将这两个库整合起来了，这个组合库和单独的库我都会放进我的Git库里面
 
-![combe库](D:\Saber\博客\基于ESP32的蓝牙小手柄附Arduino源码\file\comboLib.png)
+![combe库](file/comboLib.png)
 
 下面我们来看代码,此处用到的简单定时器我也会放进我的Git库里面的
 
@@ -159,7 +159,7 @@ void loop(){
 
 通过这串代码获取接收板的MAC地址 使发送板能与之通信
 
-![MAC地址](D:\Saber\博客\基于ESP32的蓝牙小手柄附Arduino源码\file\MAC地址.png)
+![MAC地址](file/MAC地址.png)
 
 以下代码是发送板代码
 
