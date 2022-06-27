@@ -274,4 +274,4 @@ void OnDataRecv(const uint8_t * mac, const uint8_t *incomingData, int len) {
 
 到此为止你就拥有了一个基本智能的手柄 自己拿来娱乐还是很不错的 我再夸一句皇工小毒仔的PCB画的真的很好 很细 我感觉很不错很Nice 开出来是这个样子的 不是很大 大约巴掌大小
 
-![](file\PCB1.jpg)
+![](file/PCB1.jpg)
